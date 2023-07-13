@@ -1,5 +1,10 @@
 # rstatsnyc-2023-quarto
 
+View slides:
+
+- https://chendaniely.quarto.pub/rstatsnyc-rmd-jupyter-quarto/
+- https://speakerdeck.com/chendaniely/moving-to-quarto-from-rmarkdown-and-python-jupyter-notebooks
+
 ## Setup Repository
 
 Python setup

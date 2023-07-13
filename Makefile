@@ -11,6 +11,8 @@ all:
     input = 'example-analysis.Rmd',\
     output_file = 'output/010-example-analysis-rmd.html')"
 
+	# make quarto render with output work
+	touch _quarto.yml
 	quarto render example-analysis.Rmd
 	quarto render example-analysis.Rmd \
 		--toc \
@@ -84,6 +86,7 @@ all:
 clean:
 	rm -f *.html
 	rm -rf output/*
+	rm -f _quarto.yml
 
 	jupyter nbconvert --clear-output --inplace example-analysis-python.ipynb
 	jupyter nbconvert --clear-output --inplace example-analysis-r.ipynb 

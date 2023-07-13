@@ -1,6 +1,7 @@
 output/*
 *.html
 *_files
+data/*
 
 # Default R gitignore below
 

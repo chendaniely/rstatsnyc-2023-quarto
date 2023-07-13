@@ -91,3 +91,8 @@ clean:
 .PHONY: publish
 publish:
 	quarto publish talk.qmd
+
+.PHONY: slides
+slides:
+	quarto render talk.qmd \
+		--to html

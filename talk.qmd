@@ -689,5 +689,5 @@ quarto publish confluence  # Confluence
 
 `@chendaniely`
 
-- [https://github.com/chendaniely/rstatsnyc-2023-quarto](https://github.com/chendaniely/rstatsnyc-2023-quarto)
-- [https://chendaniely.quarto.pub/rstatsnyc-rmd-jupyter-quarto/](https://chendaniely.quarto.pub/rstatsnyc-rmd-jupyter-quarto/)
+- [github.com/chendaniely/rstatsnyc-2023-quarto](https://github.com/chendaniely/rstatsnyc-2023-quarto)
+- [chendaniely.quarto.pub/rstatsnyc-rmd-jupyter-quarto/](https://chendaniely.quarto.pub/rstatsnyc-rmd-jupyter-quarto/)
